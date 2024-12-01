@@ -19,3 +19,17 @@ Shows change in QB EPA and Passer rating between ranges of weeks within the 2024
 ```
 Plots Offensive EPA vs Pts Scored in the 2024 season. It shows you how to use team logos.
 
+```
+Pitt_Russ_threedown.ipynb
+```
+Shows Pittsburgh Steelers 1st and 2nd down EPA vs 3rd Down
+
+Also shows Russel Wilson CPOE and QB EPA for 1st and 2nd down vs 3rd Down
+
+
+```
+Jared_Goff.ipynb
+```
+Looks at Jared Goff's career. Plots CPOE and QB_EPA in three ways-- line plot, 3D scatter plot, and surface plot. 
+
+This would have benefitted from a Dual Axis Time Series Charts.
