@@ -33,3 +33,8 @@ Jared_Goff.ipynb
 Looks at Jared Goff's career. Plots CPOE and QB_EPA in three ways-- line plot, 3D scatter plot, and surface plot. 
 
 This would have benefitted from a Dual Axis Time Series Chart.
+
+```
+points v. defstats.ipynb
+```
+Builds a model using XGBOOST to see if defensive stats are a predictor of score (not great!)
