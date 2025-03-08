@@ -38,3 +38,8 @@ This would have benefitted from a Dual Axis Time Series Chart.
 points v. defstats.ipynb
 ```
 Builds a model using XGBOOST to see if defensive stats are a predictor of score (not great!)
+
+```
+off_stats_v_points
+```
+Compares points scored to offensive stats. Also use XGBOOST. As of 8 March 2025, this needs a lot of work. The _rush_epa is not set up correctly and the model metrics are abomidable. 
